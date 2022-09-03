@@ -1,9 +1,8 @@
 
-  ## sen (Seeun Choi) 👩💻🔥
-  
-  ####  Junior back-end developer 
- 
-  <br>
+## sen (Se-eun Choi) 👩💻🔥
+####  Junior back-end developer 
+🤍 멋쟁이사자처럼 10기 백엔드 (22년)<br>
+🤍 미리디 개발 인턴 (22년 7-8월)
   
  <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dahyen0o&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) -->
 
