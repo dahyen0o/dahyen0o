@@ -1,7 +1,7 @@
 
 ## sen (Se-eun Choi) 👩💻🔥
 
-### Major Skills
+### Interest
 
 <div align=left>
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
