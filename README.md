@@ -24,8 +24,11 @@
 
 ### Activities
 
+- **Woowahan Tech Camp, Songpa-gu, Seoul, Republic of Korea** - Backend/Server <br/>
+*Jul 2023 - currnet*
+
 - **SSAFY, Gangnam-gu, Seoul, Republic of Korea** — Java(Major Class) Course <br/>
-*Jan 2023 - current*
+*Jan 2023 - Jun 2023*
 
 - **Likelion Club of Sogang Univ.,  Guro-gu, Seoul, Republic of Korea** — Backend Course <br/>
 *Jul 2022 - Aug 2022*
