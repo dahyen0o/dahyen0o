@@ -30,7 +30,7 @@
 - **SSAFY, Gangnam-gu, Seoul, Republic of Korea** — Java(Major Class) Course <br/>
 *Jan 2023 - Jun 2023*
 
-- **Likelion Club of Sogang Univ.,  Guro-gu, Seoul, Republic of Korea** — Backend Course <br/>
+- **Likelion Club of Sogang Univ.,  Mapo-gu, Seoul, Republic of Korea** — Backend Course <br/>
 *April 2022 - Nov 2022*
 
 
