@@ -31,6 +31,6 @@
 *Jan 2023 - Jun 2023*
 
 - **Likelion Club of Sogang Univ.,  Mapo-gu, Seoul, Republic of Korea** — Backend Course <br/>
-*April 2022 - Nov 2022*
+*April 2022 - Nov 2022*
 
 
