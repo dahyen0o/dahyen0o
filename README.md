@@ -8,6 +8,7 @@
 - OOP
 - Spring Boot
 - MySQL
+- JPA
   
 ### Algorithm
 
