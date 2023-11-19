@@ -5,8 +5,8 @@
 
 ### Interest
 
+- Clean Code
 - OOP
-- Spring Boot
 - MySQL
 - JPA
   
