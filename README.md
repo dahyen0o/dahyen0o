@@ -4,7 +4,6 @@
 ### Interest
 
 - Clean Code
-- OOP
 - MySQL
 - JPA
 
