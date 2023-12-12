@@ -7,10 +7,6 @@
 - OOP
 - MySQL
 - JPA
-  
-### Algorithm
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=seeunchoi99)](https://solved.ac/seeunchoi99)  
 
 ### Work Experience
 
