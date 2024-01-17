@@ -1,12 +1,6 @@
 
 ### 👋😎 Se-eun Choi
 
-### Interest
-
-- Clean Code
-- MySQL
-- JPA
-
 ### Work Experience
 
 - **Miridih,  Guro-gu, Seoul, Republic of Korea** — Backend Developer Intern <br/>
