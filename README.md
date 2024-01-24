@@ -17,4 +17,7 @@
 - **Likelion Club of Sogang Univ., Republic of Korea** — Backend Course <br/>
 *Jan 2022 - Nov 2022*
 
+### Education
 
+- **Sogang Univ., Republic of Korea** — Major in Computer Science and Engineering <br/>
+*Mar 2019 - Fab 2023*
