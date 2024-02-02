@@ -20,4 +20,4 @@
 ### Education
 
 - **Sogang Univ., Republic of Korea** — Major in Computer Science and Engineering <br/>
-*Mar 2019 - Fab 2023*
+*Mar 2019 - Feb 2023*
