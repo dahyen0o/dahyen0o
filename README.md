@@ -9,7 +9,7 @@
 ### Activities
 
 - **Woowa Tech Camp, Republic of Korea** - Backend/Server Course <br/>
-*Jul 2023 - Aug 2023*
+*Jul 2023 - Aug 2023*  ([*record*](https://github.com/dahyen0o/woowa-tech-camp))
 
 - **SSAFY, Gangnam-gu, Republic of Korea** — Java(Major Class) Course <br/>
 *Jan 2023 - Jun 2023*
