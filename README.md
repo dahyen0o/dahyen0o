@@ -1,6 +1,8 @@
 
 ### 👋😎 Se-eun Choi
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=seeunchoi99)](https://solved.ac/seeunchoi99)
+
 ### Work Experience
 
 - **Miridih,  Guro-gu, Seoul, Republic of Korea** — Backend Developer Intern <br/>
